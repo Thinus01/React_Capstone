@@ -133,7 +133,7 @@ Example command:
 You can deploy this project using:
 Github pages
 
-https://github.com/settings/pages
+[Demo](https://capstone-0mcn.onrender.com/)
 <!--
 Example:
 
@@ -188,7 +188,7 @@ If you like this project, give a star.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse, coding partners and my standup team.
+I would like to thank [Nelson Sakwa](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)), for providing the core consept of my website.
 
 
 ## 📝 License <a name="license"></a>
