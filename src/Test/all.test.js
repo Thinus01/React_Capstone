@@ -5,7 +5,7 @@ import { BrowserRouter } from 'react-router-dom';
 import store from '../Redux/store';
 import Nav from '../Components/navbar';
 import Models from '../Components/render';
-import Crypto from '../Components/Crypto';
+import Crypto from '../Components/Crypto.js';
 
 const crypto = { FULLName: 'bitcoin', img: 'new' };
 jest.mock('axios');
