@@ -50,6 +50,16 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Add a link to your deployed project.
+
+- [Live Demo Link](https://capstone-0mcn.onrender.com/)
+- [Project demonstration Link](https://www.loom.com/share/ce35af8f3cea4ca9af183aade8c0508b)
+
+
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
