@@ -1,0 +1,93 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Nav component renders Crypto component 1`] = `
+<div
+  className=" CryptoList"
+>
+  <div>
+    <p
+      className="Font"
+    >
+       
+    </p>
+    <div
+      className="Currency"
+    >
+      <img
+        alt="symbol"
+        className="images"
+        src="https://www.cryptocompare.comnew "
+      />
+    </div>
+    <p />
+  </div>
+</div>
+`;
+
+exports[`Nav component renders Models component 1`] = `
+Array [
+  <form
+    className="mb-5 nav"
+  >
+    <input
+      aria-label="search"
+      className="InputField"
+      onChange={[Function]}
+      placeholder="Crypto Currency"
+      type="text"
+      value=""
+    />
+  </form>,
+  <div
+    className="BG"
+  >
+    <div
+      className="grid1"
+    />
+  </div>,
+]
+`;
+
+exports[`Nav component renders Nav component 1`] = `
+<nav
+  className="nav"
+>
+  <ul
+    className="Items"
+  >
+    <li
+      className="Fonts"
+    >
+      <a
+        aria-current="page"
+        className="text-decoration-none active"
+        href="/"
+        onClick={[Function]}
+      >
+        <h3
+          className="Fonts"
+        >
+           ⮌ 
+        </h3>
+      </a>
+      <h5
+        className="mt-1 Fonts"
+      >
+        Crypto Trades
+      </h5>
+    </li>
+    <li
+      className="Icons"
+    >
+      <h1>
+        🎤
+      </h1>
+      <h1
+        className="px-2"
+      >
+        ⚙︎
+      </h1>
+    </li>
+  </ul>
+</nav>
+`;
